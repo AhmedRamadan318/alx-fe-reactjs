@@ -1,3 +1,15 @@
+# GitHub User Search Application
+
+This project allows users to search for GitHub profiles using the GitHub API.
+
+## Installation
+
+Run the following commands to set up the project:
+
+```bash
+npm install
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
